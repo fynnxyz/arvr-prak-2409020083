@@ -30,6 +30,6 @@ Scene juga memakai alas, ambient light, directional light, point light merah, tr
 - [x] Satu objek bergerak
 - [x] Objek memiliki ID bermakna
 - [x] Objek dikelompokkan dalam entity induk
-- [ ] Tambahkan foto tekstur ke `assets/tekstur.jpg`
-- [ ] Uji scene memakai marker Hiro di HP
-- [ ] Commit dan tag `scene-v1`
+- [x] Tambahkan foto tekstur ke `assets/tekstur.jpg`
+- [x] Uji scene memakai marker Hiro di HP
+- [x] Commit dan tag `scene-v1`
