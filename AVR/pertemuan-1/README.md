@@ -3,9 +3,6 @@
 - Nama: Fanny Fhadillah
 - NIM: 2409020083
 - Link Repository GitHub: https://github.com/fynnxyz/arvr-prak-2409020083
-- Link Demo (GitHub Pages): https://fynnxyz.github.io/arvr-prak-2409020083/
-
-*(Link GitHub Pages aktif setelah Pages diaktifkan pada repository.)*
 
 ## Hasil tugas
 
